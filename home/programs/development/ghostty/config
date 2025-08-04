@@ -1,0 +1,18 @@
+font-family = Zed Mono
+font-thicken = true
+font-size = 14
+
+title = "Ghostty"
+
+background-blur = true
+background-opacity = 0.95
+
+window-theme = auto
+theme = dark:Wez,light:iTerm2 Light Background
+
+shell-integration-features = no-cursor
+cursor-style = block
+cursor-style-blink = true
+
+window-padding-balance = true
+window-vsync = true
