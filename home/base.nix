@@ -7,7 +7,6 @@
   home = {
     packages = with pkgs; [
       inputs.vide.packages.${system}.vide
-      gimp
       texliveFull
       openssh
     ];

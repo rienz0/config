@@ -11,16 +11,12 @@
     };
     masApps = {};
     casks = [
-      "whatsapp"
-      "spotify"
       "discord"
-      "telegram"
       "anki"
-      "raycast"
       "obsidian"
       "font-zed-mono"
       "ghostty"
-      "proton-mail"
+      "transmission"
     ];
   };
 }

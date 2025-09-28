@@ -30,7 +30,7 @@
         tilesize = 60;
         minimize-to-application = true;
         persistent-apps = [
-          "/System/Applications/Launchpad.app"
+          "/System/Applications/Apps.app"
           "/Applications/Safari.app"
           "/Applications/Discord.app"
           "/Applications/Telegram.app"
